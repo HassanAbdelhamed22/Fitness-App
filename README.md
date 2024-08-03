@@ -18,7 +18,7 @@ I'm excited to announce the launch of my latest project: **Fitness App**! This a
 - `react-loader-spinner`: To display loading spinners for a better user experience.
 - `react-horizontal-scrolling-menu`: For horizontal scrolling functionality.
 - `@mui/icons-material`: To include Material UI icons.
-- Material UI's pagination: For managing and displaying paginated data.
+- `Material UI's pagination`: For managing and displaying paginated data.
 
 ## Key Features
 
@@ -34,11 +34,11 @@ The app is fully responsive and looks great on all devices, ensuring you can sta
 
 ## Live Demo
 
-Check out the live version of the app here: [Fitness App](https://lnkd.in/dejtnJGC)
+Check out the live version of the app here: [Fitness App](https://fitness-app-hassan-abdelhameds-projects.vercel.app/)
 
-## Repository
+## Screenshots
 
-Access the source code and contribute to the project: [GitHub Repo](https://lnkd.in/dJJVai4k)
+
 
 ## Feedback
 
