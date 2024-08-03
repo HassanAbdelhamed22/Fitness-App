@@ -36,9 +36,9 @@ The app is fully responsive and looks great on all devices, ensuring you can sta
 
 Check out the live version of the app here: [Fitness App](https://fitness-app-hassan-abdelhameds-projects.vercel.app/)
 
-## Screenshots
+## Project Video
 
-
+[Watch this video](https://drive.google.com/file/d/1wIFuHm8UykkBy3vhg1QJkAoPFdhUMvKt/view?usp=sharing)
 
 ## Feedback
 
