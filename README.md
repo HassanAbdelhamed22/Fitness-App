@@ -40,6 +40,10 @@ Check out the live version of the app here: [Fitness App](https://fitness-app-ha
 
 [Watch this video](https://drive.google.com/file/d/1wIFuHm8UykkBy3vhg1QJkAoPFdhUMvKt/view?usp=sharing)
 
+## Linkedin Post
+
+Check out the LinkedIn post here: [Fitness App](https://www.linkedin.com/posts/hassanabdelhamedh22_fitnessapp-reactjs-materialui-activity-7213199076366942209-sQPA?utm_source=share&utm_medium=member_desktop)
+
 ## Feedback
 
 I’m incredibly proud of how this project turned out and am excited to share it with the world. A big thank you to everyone who supported me throughout this journey!
