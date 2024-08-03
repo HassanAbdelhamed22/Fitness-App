@@ -38,7 +38,7 @@ Check out the live version of the app here: [Fitness App](https://fitness-app-ha
 
 ## Project Video
 
-[Watch this video](https://drive.google.com/file/d/1wIFuHm8UykkBy3vhg1QJkAoPFdhUMvKt/view?usp=sharing)
+Check out the video of the app here: [Watch this video](https://drive.google.com/file/d/1wIFuHm8UykkBy3vhg1QJkAoPFdhUMvKt/view?usp=sharing)
 
 ## Linkedin Post
 
